@@ -2,7 +2,7 @@
 ### Project Overview
 
 * The Email Generation Agent is a task-specific AI application that generates professional, well-structured emails based on a user’s purpose (such as leave request, meeting request, follow-up, complaint, or job application).
-* The project demonstrates how CrewAI agents can be used to automate real-world communication tasks and how AI agents can be integrated with a Flask web interface.
+* The project demonstrates how CrewAI agents can be used to automate real-world communication tasks
 
 ### Problem Statement
 * Writing professional emails can be:
